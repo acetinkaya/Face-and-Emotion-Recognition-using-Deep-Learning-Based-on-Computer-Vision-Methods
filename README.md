@@ -17,5 +17,5 @@ Face and Emotion Recognition using Deep Learning Based on Computer Vision Method
 ## Article Information
 - **Received**: June 13, 2021  
 - **Accepted**: June 16, 2021
-- **DOI:** 10.31557/APJCP.2022.23.10.3287
+- **DOI:** 10.20852/ntmsci.2021.423
 - **Full Article Access Link**: [Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer](https://journal.waocp.org/article_90310.html)

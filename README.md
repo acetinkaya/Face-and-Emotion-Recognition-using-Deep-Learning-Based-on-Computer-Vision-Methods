@@ -29,6 +29,6 @@ picture determined by the user and to conduct emotional analysis and gender dete
 
 Keywords: Deep Learning, Viola-Jones Algorithm, Facial Expression Analysis, Emotion Analysis, Gender Detection.
 
-
+https://avesis.gelisim.edu.tr/yayin/382752f9-39cf-41f1-8acd-1623a59d7fb1/face-and-emotion-recognition-using-deep-learning-based-on-computer-vision-methods
 
 

@@ -33,7 +33,7 @@ Keywords: Deep Learning, Viola-Jones Algorithm, Facial Expression Analysis, Emot
 
 - **IEEE**: C. Akçelik Et Al. , "Face and emotion recognition using deep learning based on computer vision methods," New Trends in Mathematical Science , vol.9, no.1, pp.21-25, 2021
 
-- **APA**: Ozcan, I., Aydin, H., & Cetinkaya, A. (2022). Comparison of classification success rates of different machine learning algorithms in the diagnosis of breast cancer. *Asian Pacific Journal of Cancer Prevention: APJCP, 23*(10), 3287.
+- **APA**: Akçelik, C., Okatan, A., & Çetinkaya, A., (2021). Face and emotion recognition using deep learning based on computer vision methods. New Trends in Mathematical Science , vol.9, no.1, 21-25.
 
 - **MLA**: Ozcan, Irem, Hakan Aydin, and Ali Cetinkaya. "Comparison of Classification Success Rates of Different Machine Learning Algorithms in the Diagnosis of Breast Cancer." *Asian Pacific Journal of Cancer Prevention*, vol. 23, no. 10, 2022, pp. 3287-3297. doi: [10.31557/APJCP.2022.23.10.3287](https://doi.org/10.31557/APJCP.2022.23.10.3287).
 

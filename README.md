@@ -22,6 +22,15 @@ Face and Emotion Recognition using Deep Learning Based on Computer Vision Method
 
 ---
 
+##  Yayın Erişim Sayfaları
+
+[Kongre İnternet Sayfası](https://www.aydin.edu.tr/haberler/Pages/international-conference-on-al-and-big-data-in-engineering-applications-2021.aspx)
+
+[IGU Avesis Yayın Linki](https://avesis.gelisim.edu.tr/yayin/382752f9-39cf-41f1-8acd-1623a59d7fb1/face-and-emotion-recognition-using-deep-learning-based-on-computer-vision-methods)
+
+[ResearchGate](https://www.researchgate.net/publication/353958426_Vehicle_Classification_and_Tracking_Using_Convolutional_Neural_Network_Based_on_Darknet_Yolo_with_Coco_Dataset)
+
+
 Abstract: 
 
 Deep learning studies are among the discipline that are rapidly increasing and developing today. Especially after the concept of big data enters our lives, deep learning methods have used to process the data. In the study, it has aimed to detect the face on the
@@ -46,3 +55,13 @@ https://avesis.gelisim.edu.tr/yayin/382752f9-39cf-41f1-8acd-1623a59d7fb1/face-an
 https://www.ntmsci.com/AjaxTool/GetArticleByPublishedArticleId?PublishedArticleId=8621
 
 https://www.researchgate.net/publication/352982794_Face_and_emotion_recognition_using_deep_learning_based_on_computer_vision_methods
+
+
+
+## License
+This work is licensed under a [Creative Commons Attribution-Non Commercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/), allowing non-commercial sharing and adaptation with proper attribution.
+
+---
+
+![AlternatifMetin](https://github.com/acetinkaya/Breast-Cancer-Classification-with-ML-Algorithms/blob/main/Diseases-Classification.png)
+

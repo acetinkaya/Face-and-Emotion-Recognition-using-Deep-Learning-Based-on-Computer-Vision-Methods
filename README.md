@@ -28,7 +28,7 @@ Face and Emotion Recognition using Deep Learning Based on Computer Vision Method
 
 [IGU Avesis Yayın Linki](https://avesis.gelisim.edu.tr/yayin/382752f9-39cf-41f1-8acd-1623a59d7fb1/face-and-emotion-recognition-using-deep-learning-based-on-computer-vision-methods)
 
-[ResearchGate](
+[ResearchGate](https://www.researchgate.net/publication/352982794_Face_and_emotion_recognition_using_deep_learning_based_on_computer_vision_methods)
 
 
 Abstract: 

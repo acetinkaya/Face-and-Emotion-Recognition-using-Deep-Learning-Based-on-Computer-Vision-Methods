@@ -28,7 +28,7 @@ Face and Emotion Recognition using Deep Learning Based on Computer Vision Method
 
 [IGU Avesis Yayın Linki](https://avesis.gelisim.edu.tr/yayin/382752f9-39cf-41f1-8acd-1623a59d7fb1/face-and-emotion-recognition-using-deep-learning-based-on-computer-vision-methods)
 
-[ResearchGate](https://www.researchgate.net/publication/353958426_Vehicle_Classification_and_Tracking_Using_Convolutional_Neural_Network_Based_on_Darknet_Yolo_with_Coco_Dataset)
+[ResearchGate](
 
 
 Abstract: 

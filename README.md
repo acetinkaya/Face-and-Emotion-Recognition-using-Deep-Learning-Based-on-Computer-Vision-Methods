@@ -54,5 +54,4 @@ This work is licensed under a [Creative Commons Attribution-Non Commercial 4.0 I
 
 ---
 
-![AlternatifMetin](https://github.com/acetinkaya/Breast-Cancer-Classification-with-ML-Algorithms/blob/main/Diseases-Classification.png)
-
+![AlternatifMetin](https://github.com/acetinkaya/Face-and-Emotion-Recognition-using-Deep-Learning-Based-on-Computer-Vision-Methods/blob/main/Faceandemotion.png)

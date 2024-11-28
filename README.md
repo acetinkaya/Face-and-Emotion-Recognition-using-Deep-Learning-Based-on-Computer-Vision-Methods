@@ -24,7 +24,7 @@ Face and Emotion Recognition using Deep Learning Based on Computer Vision Method
 
 ##  Yayın Erişim Sayfaları
 
-[Kongre İnternet Sayfası](https://www.aydin.edu.tr/haberler/Pages/international-conference-on-al-and-big-data-in-engineering-applications-2021.aspx)
+[Kongre İnternet Sayfası](
 
 [IGU Avesis Yayın Linki](https://avesis.gelisim.edu.tr/yayin/382752f9-39cf-41f1-8acd-1623a59d7fb1/face-and-emotion-recognition-using-deep-learning-based-on-computer-vision-methods)
 
